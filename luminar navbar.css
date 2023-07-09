@@ -1,0 +1,27 @@
+ .nav-items:hover{ 
+   
+ text-decoration: underline blueviolet 2px solid;
+  
+       
+}
+.nav-items  a:hover{
+    color:blueviolet;
+}
+.carousel-caption{
+    text-align: justify;
+    padding-left: 300px;
+    padding-bottom: 200px;
+  
+}
+.imageheading{
+    margin-top: -44%;
+}
+.carousel-caption{
+    padding: 2px; text-align: justify;
+}
+.carousel-item img{
+    filter: brightness(50%);
+}
+.carousel-inner{
+    z-index: -10;
+}
